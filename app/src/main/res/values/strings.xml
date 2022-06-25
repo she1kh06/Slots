@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">slots</string>
+    <string name="play">Play</string>
+    <string name="coins">You have %d coins</string>
+    <string name="slots">Slots</string>
+    <string name="app_icon">App icon</string>
+    <string name="history_of_games">History of games</string>
+    <string name="you_have_s_coins">You have %s coins</string>
+    <string name="bet">Bet 5 coins</string>
+    <string name="spin">Spin</string>
+    <string name="earned_coins_s">Earned coins: %s</string>
+    <string name="first_image">first image</string>
+    <string name="second_image">second image</string>
+    <string name="third_image">third image</string>
+    <string name="back">Back</string>
+    <string name="no_games_played_yet">No games played yet</string>
+</resources>
